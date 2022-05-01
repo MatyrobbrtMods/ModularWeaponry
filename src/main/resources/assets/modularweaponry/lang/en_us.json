@@ -1,0 +1,12 @@
+{
+	"tooltip.modularweaponry.module_holder": "Contains tool module %s of level %s",
+	"tooltip.modularweaponry.modular_tool.empty": "This item is a modular tool, but it does not contain any module",
+	"tooltip.modularweaponry.modular_tool.contains": "Has the following tool modules:",
+
+	"menu.modularweaponry.module_bench": "Module Bench",
+	
+	"modularweaponry_module.modularweaponry.lightning_attack": "Lightning attack",
+	
+	"info.modularweaponry.incompatible_with_tool": "The tool is incompatible with the module %s",
+	"info.modularweaponry.max_level_reached": "The tool already has the module %s at the maximum level of %s"
+}
